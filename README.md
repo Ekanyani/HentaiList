@@ -38,7 +38,7 @@
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)
 
 
-### 2. Setelah itu, Unduh daftar website berformat .csv yang ada di project ini.
+### 2. Setelah itu, Unduh File bernama [WebsiteList.csv] yang ada dalam project ini.
 
 ### 3. Masukan file .csv tadi pada [Import List] yang terletak dibawah BLockSite
 
