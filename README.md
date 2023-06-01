@@ -38,9 +38,9 @@
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)
 
 
-### 2. Setelah itu, Klik Tombol [Import List] yang terletak di bawah
+### 2. Setelah itu, Unduh daftar website berformat .csv yang ada di project ini.
 
-### 3. Masukan File berformat .csv yang ada pada Project ini.
+### 3. Masukan file .csv tadi pada [Import List] yang terletak dibawah BLockSite
 
 ### 4. Klik Merge (Gabungkan)
 
@@ -72,6 +72,10 @@ Karna saya merasa kesal dengan diri saya yang selalu kembali ke situs - situs te
 
 Untuk mereka yang sering menjelajahi dunia internet dan dikutuk oleh berbagai macam pengetahuan akan website - website terlarang.
 
+#### Bukankah para pemerintah sudah melakukan upaya dalam memblokir website menggunakan Internet Positif?
+
+Benar. Tapi saya pribadi, bisa dengan mudahnya melewati / mem-bypass cara tersebut hanya dengan mengubah provider DNS Saya.
+
 #### Apakah Project ini melarang kegiatan tersebut untuk dilakukan?
 
 Tidak. Alasan aku membuat project ini adalah supaya kita, sebagai generasi selanjutnya tidak menjadi ketergantungan dengan media - media seperti itu.
@@ -98,6 +102,11 @@ Project ini telah digunakan oleh:
 
 Jika Anda punya saran / masukan, bisa membuat issue baru / menghubungi email dibawah:
 nyanimedia@gmail.com
+
+
+## Roadmap
+
+- Memblokir semua website yang bisa dianggap 'mengganggu'
 
 
 ## License / Lisensi
