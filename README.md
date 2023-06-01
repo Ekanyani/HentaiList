@@ -24,9 +24,8 @@
 - 💰 100% Gratis tanpa Biaya
 - 😇 Penginstalan Mudah
 - 🔃 Selalu Terupdate
-- 🤼 Dimajukan oleh Komunitas
 - 🕵️‍♂️ Anti VPN & DNS
-
+- 🤼 Dimajukan oleh Komunitas
 
 
 
