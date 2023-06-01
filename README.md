@@ -53,9 +53,7 @@
 
 Kontribusi selalu diterima!
 
-Lihat `contributing.md` untuk manual tentang bagaimana cara memulai.
-
-Please adhere to this project's `code of conduct`.
+1. Download File 
 
 
 ## Original Authors
@@ -71,6 +69,10 @@ Please adhere to this project's `code of conduct`.
 #### Apa Alasan Project ini dibuat?
 
 Karna saya merasa kesal dengan diri saya yang selalu kembali ke situs - situs tersebut untuk membuang - buang waktu dan akhirnya melakukan kegiatan yang menurut saya sangatlah merugikan.
+
+#### Mengapa Project ini ada?
+
+Karna Kominfo tidak memberikan daftar website yang di blacklist dalam skala kecil. Hal ini membuat para peneliti awam sulit untuk menganalisa daftar website yang diberikan.
 
 #### Untuk siapa Project ini?
 
