@@ -18,7 +18,7 @@
 
 
 
-## Features / Fitur
+## ✨Features / Fitur
 
 - 🌐 Bisa digunakan dalam berbagai browser (i.e Chrome, Firefox, Safari)
 - 💰 100% Gratis tanpa Biaya
@@ -31,7 +31,7 @@
 
 
 
-## Installation / Cara Pemakaian
+## ♻ Installation / Cara Pemakaian
 
 ### 1. Install Extension bernama BlockSite pada Browser yang anda gunakan.
 
@@ -49,7 +49,7 @@
 ### 4. Klik Merge (Gabungkan)
 
 ### 5. Selesai ✨
-## Contributing / Kontribusi
+## 🛠 Contributing / Kontribusi
 
 Kontribusi selalu diterima!
 
@@ -66,7 +66,7 @@ Please adhere to this project's `code of conduct`.
 - Community
 
 
-## FAQ (Pertanyaan & Jawaban)
+## ⁉ FAQ (Pertanyaan & Jawaban)
 
 #### Apa Alasan Project ini dibuat?
 
@@ -89,7 +89,7 @@ Tentu, kegiatan seperti itu tidak ada salahnya sama sekali, cuman lebih baik men
 
 
 
-## Acknowledgements
+## 🙇‍♀️  Acknowledgements
 
  - [ReadMe Maker](https://github.com/sponsors/octokatherine?o=esb)
  - [BlockSite](https://blocksite.co/)
@@ -102,17 +102,17 @@ Project ini telah digunakan oleh:
 - Authornya sendiri (duh)
 
 
-## Feedback
+## 📮 Feedback
 
 Jika Anda punya saran / masukan, bisa membuat issue baru / menghubungi email dibawah:
 nyanimedia@gmail.com
 
 
-## Roadmap
+## 🛣 Roadmap
 
 - Memblokir semua website yang bisa dianggap 'mengganggu'
 
 
-## License / Lisensi
+## 🔥 License / Lisensi
 
 [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.en.html)
