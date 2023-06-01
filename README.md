@@ -42,7 +42,7 @@
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)
 
 
-### 2. Setelah itu, Unduh File bernama [WebsiteList.csv] yang ada dalam project ini.
+### 2. Setelah itu, Unduh File bernama [HentaiList.csv] yang ada dalam project ini.
 
 ### 3. Masukan file .csv tadi pada [Import List] yang terletak dibawah BLockSite
 
@@ -53,7 +53,17 @@
 
 Kontribusi selalu diterima!
 
-1. Download File 
+1. Download File HentaiList.csv
+
+2. Edit / Masukan Website yang menurut kamu masuk kedalam kategori.
+
+3. Buat Pull Request dan masukan File .csv yang sudah Kamu edit tadi
+
+4. Tunggu Penyelesaian Review sebelum File dimasukan kedalam Project Utama.
+
+5. Jika Diterima, maka File HentaiList.csv akan diupdate untuk para penggunanya.
+
+6. Selesai dan Terimakasih 🙏
 
 
 ## Original Authors
