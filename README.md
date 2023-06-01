@@ -1,7 +1,11 @@
 
-# HentaiList - ⛔ Daftar Website Hentai & Doujin Untuk Diblokir ⚠
+# HentaiList - ⛔ Daftar Website Hentai & Doujin Untuk Diblokir ⛔
 
-### 🌟 Daftar Website yang ada disini sudah dipilih & diperiksa secara indepeden. Hal ini bertujuan supaya tidak membatasi hak pengguna untuk dapat mengkonsumsi media serupa yang tidak masuk dalam kategori - kategori diatas seperti :
+### ⚠ Perhatian! ⚠
+### Sebelum menggunakan, mohon diingat bahwa project ini bertujuan untuk mengedukasi dan bukannya mendorong kegiatan - kegiatan yang merugikan!
+### Proceed with Caution!
+
+### 🌟 Daftar Website yang tidak masuk kedalam kategori diatas adalah :
 
 - Anime
 - Manga
